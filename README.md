@@ -4,4 +4,4 @@ Theme for rEFInd based on **[Antu](https://github.com/fabianalexisinostroza/Antu
 
 Licensed under **[CC BY-SA 4.0](https://github.com/mcder3/Antu-rEFInd/tree/master/LICENSE.md "CC BY-SA 4.0")**
 
-For more information visit the Antu for rEFInd section at **[opendesktop]("opendesktop")**
+For more information visit the Antu for rEFInd section at **[opendesktop](https://www.pling.com/p/1314495/ "opendesktop")**
