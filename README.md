@@ -1,6 +1,6 @@
 # Antu-rEFInd
 
-Theme for rEFInd based on Antu icons by Fabian Alexis
+Theme for rEFInd based on **[Antu](https://github.com/fabianalexisinostroza/Antu-icons "Antu")** icons by **[Fabian Alexis](https://github.com/fabianalexisinostroza)**
 
 Licensed under **[CC BY-SA 4.0](https://github.com/mcder3/Antu-rEFInd/tree/master/LICENSE.md "CC BY-SA 4.0")**
 
